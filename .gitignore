@@ -1,0 +1,6 @@
+.env
+outputs/*
+__pycache__/
+.gradio/
+my_env/
+env/
